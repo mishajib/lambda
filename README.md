@@ -1,2 +1,1 @@
-# https://mishajib.github.io/lambda/
-# lambda
+# [Lambda](https://mishajib.github.io/lambda/)
